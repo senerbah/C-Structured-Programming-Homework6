@@ -1,0 +1,79 @@
+Hello World! This file is intentionally created to test the character counting program.
+The goal is to include many sentences, multiple words, repeated letters, and various cases.
+Bahtinur Sener is practicing C programming for the Data Structures and Algorithms course.
+This is Homework 6, and the task is about reading a file and counting each character properly.
+
+C language provides functions such as fgetc, fopen, fclose, fprintf, and many others.
+When writing systems-level code, C offers fine-grained control over memory and operations.
+Learning how to handle files, text processing, and arrays is an essential skill.
+Ege University International Computer Institute provides courses that support these abilities.
+
+The quick brown fox jumps over the lazy dog.
+This famous English pangram contains every letter from A to Z at least once.
+Typing such sentences helps check whether the character counting algorithm works correctly.
+Another example of a pangram is: "Pack my box with five dozen liquor jugs."
+
+Machine learning, artificial intelligence, data science, and pattern recognition
+are modern fields that heavily rely on algorithms, mathematics, and strong programming skills.
+Although this exercise is simple, understanding how character counting works
+is the foundation for more advanced text processing techniques.
+
+Below are some repeated lines, alphabet sequences, and random text
+to ensure the file is long enough for a comprehensive test.
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+Line 1: Testing, testing, testing...
+Line 2: Counting characters should be accurate.
+Line 3: Make sure uppercase and lowercase letters are treated the same.
+Line 4: LETTERS LIKE THIS SHOULD BE LOWERCASED.
+Line 5: letters like this should also be counted properly.
+
+Random text block:
+qwertyuiopasdfghjklzxcvbnm
+mnbvcxzasdfghjklpoiuytrewq
+aaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccccccccccccccccccccccc
+xyzxyzxyzxyzxyzxyzxyzxyzxyz
+Programming in C can be fun and also challenging.
+Bahtınur is improving her skills every day.
+
+More sentences for length: 
+The rain in Spain stays mainly in the plain.
+To be or not to be, that is the question.
+All that glitters is not gold.
+A journey of a thousand miles begins with a single step.
+Better late than never.
+Actions speak louder than words.
+Practice makes perfect.
+Knowledge is power.
+The early bird catches the worm.
+No pain, no gain.
+
+Even more filler text to increase the size of this input file:
+This line adds more content.
+So does this line.
+And this one.
+And another one.
+And yet another one.
+We keep adding more and more lines.
+C programming assignments often require careful debugging.
+File handling is one of the core parts of system-level programming.
+Character counting helps build intuition about ASCII values and loops.
+
+Nearly done — adding some more:
+aaaa bbbb cccc dddd eeee ffff gggg hhhh
+ijkl mnop qrst uvwx yzab cdef ghij klmn
+opqr stuv wxyz abcd efgh ijkl mnop qrst
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+
+Final lines:
+This is the end of the input file.
+Character counting should now produce meaningful results.
+Thank you for reading this long input text file!
